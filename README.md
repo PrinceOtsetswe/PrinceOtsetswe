@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi, I'm Prince👋
+
+🎓Aspiring Computer Science student
+💻Currently learning Python
+📍Botswana
+
+## What I'm working on
+-Python beginner projects
+-Learning problem solving
+
+## Goals
+-Build real-world projects
+-Become a software developer
 
 <!--
 **PrinceOtsetswe/PrinceOtsetswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
