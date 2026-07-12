@@ -1,6 +1,6 @@
 ## Hi, I'm Prince👋
 
-🎓Aspiring Computer Science student
+🎓Aspiring Computer System Engineer 
 
 💻Currently learning Python
 
