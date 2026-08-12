@@ -16,7 +16,7 @@
 
 -Build real-world projects
 
--Become a software developer
+-Become an AI Engineer
 
 <!--
 **PrinceOtsetswe/PrinceOtsetswe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
