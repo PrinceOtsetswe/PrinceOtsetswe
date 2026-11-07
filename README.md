@@ -21,7 +21,7 @@
 
 - Cisco: Introduction to Cybersecurity
 - OpsWatt: Critical Infrastructure and Cybersecurity
-- freeCodeCamp: Python
+- freeCodeCamp: Python (in progress)
 
 ## Goals
 
@@ -31,4 +31,4 @@
 ## Contact
 
 📫 princeotsetswe79@gmail.com
-**PrinceOtsetswe/PrinceOtsetswe** 
+
